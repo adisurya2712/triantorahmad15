@@ -1,0 +1,109 @@
+<html>
+	<head>
+ 		<title>Home Forum Apaan Sih</title>
+ 		<link rel="stylesheet" type="text/css" href="style.css">
+	</head>
+	<body bgcolor="#272822">
+		<div class="wrapper">
+			<header src="header.jpg">
+			<img src="header.jpg" width="100%">
+				<nav>
+					<ul>
+						<div>
+						<li>|<a href="" class="current">Home</a>  |</li>
+						<li>|<a href="">Populer</a>  |</li>
+						<li>|<a href="">Category</a>  |</li>
+						<li>|<a href="">About</a>  |</li>
+						<li>|<a href="">Help</a>  |</li>
+					</div>
+					</ul>
+				</nav>
+		
+			</header>
+</p>
+		</td>
+		<body bgcolor="#4A4A47">
+				<table class="wrapper">
+					<figure>
+						<search>
+						<h3><p>PENCARIAN:</p><input type="text" name="Search" /></h3>
+			<input type="image" src="Search.jpg" width="30" height="30" />
+		</search>
+				<nav>
+					
+					<p></p>
+						<img src="Badge.jpg" alt="Badge" />
+						<figcaption></figcaption>
+					</nav>
+					<p></p>
+					<nav>
+						<img src="Food.jpg" alt="Food" />
+						<figcaption></figcaption>
+					
+				</nav>
+					</figure>
+				<figure>
+					<hgroup class="artikel">
+						<h2><a href = "">Perancangan Web</h2>
+						<nav class="satu">
+							<li><a href="" class="current">Categori</a></li>
+							<li><a href="" class="current">Populer</a></li>
+							<li><a href="" class="current">Pemrogaman</a></li>
+						</nav> 
+					</hgroup>
+					<p></p>
+					<hgroup class="artikel">
+						<h2><a href="">Pembelajaran JAVA mudah</h2>
+						<nav class="satu">
+							<li><a href="" class="current">Categori</a></li>
+							<li><a href="" class="current">Populer</a></li>
+							<li><a href="" class="current">Pemrogaman</a></li>
+						</nav> 
+					</hgroup>
+					<p></p>
+					<hgroup class="artikel">
+						<h2><a href="">Grafika Komputer 2D</h2>
+						<nav class="satu">
+							<li><a href="" class="current">Categori</a></li>
+							<li><a href="" class="current">Populer</a></li>
+							<li><a href="" class="current">Pemrogaman</a></li>
+						</nav> 
+					</hgroup>
+					<p></p>
+			</figure>
+					<aside>
+						<section class="shape">
+						<img src="Shape.jpg" alt="Shape"/>
+						</section>
+				<section class="courses">
+					<h2>CATEGORI</h2>
+					<a href="">All Categori</a>
+					<a href="">Diskusi Program & TI</a>
+					<a href="">Artikel &Tutorial</a>
+					<a href="">Berita Tentang IT</a>
+					<a href="">Live Style</a>
+					<a href="">Sharing</a>
+				</section>
+				<section class="courses">
+					<h2>TAG</h2>
+					<a href="">Populer</a>
+					<a href="">News</a>
+					<a href="">Program</a>
+					<a href="">Berita IT</a>
+					<a href="">Admistator</a>
+					<a href="">CHAPTCHA</a>
+					<p>  <br/>
+						Forum Apaan Sih <br/>
+						<br />
+						</p>
+				</section>
+			</aside>
+			<footer>
+				<div class="">
+				<p class=""><a href="">Legal Information</a> | <a href="">Privacy Policy</a> | <a href="">Copyright &copy; Forum Apaan Sih 2017</a></p>
+			</div>
+			</footer>    
+		</table>
+	</section>
+	</body>
+</html>

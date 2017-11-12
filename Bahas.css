@@ -1,0 +1,126 @@
+		<style type="text/css">
+			header, section, footer, aside, nav, hgroup, figure, figcaption, search, logo {
+				display: block;}
+				/*Bagian bodi awal*/
+			body {
+				color: #666666;
+				background-color: #272822;
+				background-image: url("bg.jpg");
+				background-position: center;
+				font-family: Georgia, Times, serif;
+				line-height: 1.4em;
+				margin: 0px;}
+			.wrapper {
+				width: 940px;
+				margin: 20px auto 20px auto;
+				border: 0px s olid #000000;
+				background-color: #ffffff;}
+			 
+			h1 {
+				text-indent: -9999px;
+				width: 940px;
+				height: 130px;
+				margin: 0px;}
+			nav ul, footer {
+				clear: both;
+				color: #ffffff;
+				font-family: Georgia;
+				background-color: #C59A32;
+				height: 30px;}
+			nav ul {
+				margin: 0px;
+				padding: 5px 0px 5px 20px;}
+			nav li {
+				display: inline;
+				margin-right: 40px;}
+			nav.satu {
+				padding: 0px;
+				color: #ffffff;
+				font-size: 10px}
+			nav li a:hover, nav li a.current {
+				color: #000000;}
+			section.courses {
+				float: left;
+				width: 200px;
+				border-right: 0px solid #595959 ;
+				background-color:#ECECEC;}
+			article {
+				float: left;
+				clear:;
+				overflow: ;
+				margin: 10%;
+				width: ;}
+			hgroup {
+				margin-top: 50px;}
+			figure {
+				float:;
+				width: 30px;
+				height: 20px;
+				padding: 0px;
+				margin: 0px 0px 0px 0px;
+				border: 0px solid #eeeeee;}
+			search {
+				float: right;
+				padding: 0px 0px 0px 0px;
+				margin: 0px 30px 5px 0px;
+				}
+			figcaption {
+				font-size: 90%;
+				text-align: left;}
+			.layout {
+				border-bottom: 3px solid #E9E9E9;
+			}
+			.font{	color: #909090;
+					font-variant: ;
+					font-size: 30px;
+					font-family: Georgia, Times, serif; }
+			logo img{margin: 0px 0px 0px 0px;
+					 padding: 0px 0px 0px 0px;
+				}
+			aside {
+				width: 150px;
+				float: left;
+				padding: 0px 0px 0px 20px;}
+			aside section a {
+				display: block;
+				padding: 5px;
+				border-bottom: 0px solid #eeeeee;}
+			aside section a:hover {
+				color: #FFFFFF;
+				background-color: #;}
+			figure.shape {
+				float:;
+				width: 80px;
+				height: 60px;
+				padding: 0px;
+				margin:;
+				border: 0px solid #eeeeee;}
+			a {
+				color: #595959;
+				background-color: ; 
+				text-decoration: none;
+				margin: 20px 0px 0px 0px;
+				padding: 0px 0px 0px 0px;}
+			hgroup.artikel.wrap .badan .content{
+					background:;
+					float:left;
+					height: 100%;
+					width: 75%;	}
+ 		hgroup.artikel.wrap .footer{
+					width: 100%;
+					padding: 10px;
+					}
+			aside h2 {
+				padding: 15px 0px 10px 0px;
+				margin: 20px 0px 5px 0px;
+				color: #FFFFFF;
+				background-color:#F18D00;}
+			footer {
+				font-size: 80%;
+				line-height: 30px;
+				padding: 0px 4px 0px 20px;}
+		</style>
+		<!--[if lt IE 9]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+	

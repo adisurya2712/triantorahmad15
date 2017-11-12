@@ -1,0 +1,101 @@
+<html>
+	<head>
+ 		<title>Pembahasan Forum Apaan Sih</title>
+ 		<link rel="stylesheet" type="text/css" href="Bahas.css">
+	</head>
+	<body bgcolor="#272822">
+		<div class="wrapper">
+			<header src="header.jpg">
+			<img src="header.jpg" width="100%">
+				<nav>
+					<ul>
+						<div>
+						<li>|<a href="">Home</a>  |</li>
+						<li>|<a href="">Populer</a>  |</li>
+						<li>|<a href="">Category</a>  |</li>
+						<li>|<a href="">About</a>  |</li>
+						<li>|<a href="">Help</a>  |</li>
+					</div>
+					</ul>
+				</nav>
+		
+			</header>
+		</td>
+		<body bgcolor="#4A4A47">
+			
+						<search>
+						<h3><p>PENCARIAN:</p><input type="text" name="Search" /></h3>
+			<input type="image" src="Search.jpg" width="30" height="30" />
+		</search>
+			<p></p>
+
+					<article class="">
+						<h2><a href = "">Perancangan Web</h2>
+						<nav class="satu">
+							<li><a href="" class="current">Categori</a></li>
+							<li><a href="" class="current">Populer</a></li>
+							<li><a href="" class="current">Pemrogaman</a></li>
+						</nav>
+						<p>Karakteristik jaringan komputer terbagi menjadi :</p> 
+						<p>1.	Berdasarkan geografisnya, jaringan komputer terbagi menjadi Jaringan wilayah lokal atau Local Area Network (LAN), Jaringan wilayah metropolitan atau Metropolitan Area Network (MAN), dan Jaringan wilayah luas atau Wide Area Network (WAN). Jaringan wilayah lokal]] merupakan jaringan milik pribadi di dalam sebuah gedung atau tempat yang berukuran sampai beberapa 1 – 10 kilometer. LAN seringkali digunakan untuk menghubungkan komputer-komputer pribadi dan stasiun kerja (workstation) dalam kantor suatu perusahaan atau pabrik-pabrik untuk memakai bersama sumberdaya (misalnya pencetak (printer) dan saling bertukar informasi.Sedangkan Jaringan wilayah metropolitan merupakan perluasan jaringan LAN sehingga mencakup satu kotayang cukup luas, terdiri atas puluhan gedung yang berjarak 10 – 50 kilometer.
+						</p>
+						<p> Kabel transmisi yang digunakan adalah kabel serat optik (Coaxial Cable). Jaringan wilayah luas Merupakan jaringan antarkota, antar propinsi, antar negara, bahkan antar benua. Jaraknya bisa mencakup seluruh dunia, misalnya jaringan yang menghubungkan semua bank di Indonesia, atau jaringan yang menghubungkan semua kantor Perwakilan Indonesia di seluruh dunia.Media transmisi utama adalah komunikasi lewat satelit, tetapi banyak yang mengandalkan koneksi serat optik antar negara.
+						</p>
+						<p>2.	Berdasarkan fungsi, terbagi menjadi Jaringan Klien-server (Client-server) dan Jaringan Ujung ke ujung (Peer-to-peer).Jaringan klien-server pada ddasaranya ada satu komputer yang disiapkan menjadi peladen (server) dari komputer lainnya yang sebagai klien (client). Semua permintaan layanan sumberdaya dari komputer klien harus dilewatkan ke komputer peladen, komputer peladen ini yang akan mengatur pelayanannya.Apabila komunikasi permintaan layanan sangat sibuk bahkan bisa disiapkan lebih dari satu komputer menjadi peladen, sehingga ada pembagian tugas, misalnya file-server, print-server, database server dan sebagainya. Tentu saja konfigurasi komputer peladen biasanya lebih dari konfigurasi komputer klien baik dari segi kapasitas memori, kapasitas cakram keras {harddisk), maupun kecepatan prosessornya. Sedangkan jaringan ujung ke ujung itu ditunjukkan dengan komputer-komputer saling mendukung, sehingga setiap komputer dapat meminta pemakaian bersama sumberdaya dari komputer lainnya, demikian pula harus siap melayani permintaan dari komputer lainnya. Model jaringan ini biasanya hanya bisa diterapkan pada jumlah komputer yang tidak terlalu banyak, maksimum 25, karena komunikasi akan menjadi rumit dan macet bilamana komputer terlalu banyak.
+						</p>
+						<p> 3.	Berdasarkan topologi jaringan, jaringan komputer dapat dibedakan atas:</p>
+														<p>1.	Topologi bus</p>
+													  <p>2.	Topologi bintang</p>
+													   <p>3.	Topologi cincin</p>
+														<p>4.	Topologi mesh</p>
+													 	<p>5.	Topologi pohon</p>
+														<p>6.	Topologi linier</p>
+
+						<p> 4.	Berdasarkan distribusi sumber informasi/data
+										<p>1.	Jaringan terpusat</p>
+						<p>Jaringan ini terdiri dari komputer klien dan peladen yang mana komputer klien yang berfungsi sebagai perantara untuk mengakses sumber informasi/data yang berasal dari satu komputer peladen.</p>
+										<p>2.	Jaringan terdistribusi</p>
+						<p>Merupakan perpaduan beberapa jaringan terpusat sehingga terdapat beberapa komputer peladen yang saling berhubungan dengan klien membentuk sistem jaringan tertentu.</P>
+
+							<P>5.	Berdasarkan media transmisi data
+									<P>1.	Jaringan Berkabel (Wired Network)</P>
+						<p>Pada jaringan ini, untuk menghubungkan satu komputer dengan komputer lain diperlukan penghubung berupa kabel jaringan. Kabel jaringan berfungsi dalam mengirim informasi dalam bentuk sinyal listrik antar komputer jaringan.</p>
+						<p>
+						<img src="StarTopology.jpg" alt=""></p>
+						<p>2.	Jaringan nirkabel(Wi-Fi)</p>
+ 	
+Merupakan jaringan dengan medium berupa gelombang elektromagnetik. Pada jaringan ini tidak diperlukan kabel untuk menghubungkan antar komputer karena menggunakan gelombang elektromagnetik yang akan mengirimkan sinyal informasi antar komputer jaringan. </p>
+ 						
+ 						<p> 
+ 							<input type="image" src="wifi.jpg" width="500" height="400"/>
+ 						 </p>
+ 						 <p class="layout"></p>
+ 						 <p class="font">5 Comment</p>
+ 						 <p class="layout"></p>
+ 						<p class="font"> <img src="icon.jpg"> Jack Imam </p>
+       					<p><textarea rows="3" cols="30"
+          				name="" id=""></textarea></p>
+          				<p class="font"> <img src="icon.jpg"> Sumidi Kucing Villa </p>
+       					<p><textarea rows="3" cols="30"
+          				name="" id="font"></textarea></p>
+          				<p class="font"> <img src="icon.jpg"> Mukidi Berdiri </p>
+       					<p><textarea rows="3" cols="30"
+          				name="" id=""></textarea></p>
+          				<p class="font"> <img src="icon.jpg"> Willson Andalas </p>
+       					<p><textarea rows="3" cols="30"
+          				name="" id=""></textarea></p>
+          				 <p class="layout"></p>
+ 						 <p class="font">Archives</p>
+ 						 <p><a href="">► 2013 (1)</a><p><a href="">▼ 2012 (11)</a></p><p><a href="">▼ November</a></p><p><a href="">(8)KARAKTERISTIK JARINGAN </a></p><p><a href="">JENIS-JENIS JARINGAN KOMPUTER</a></p><p><a href="">KOMUNIKASI DATAPERANGKAT KERAS (HARDWARE)</a></p><p><a href="">JARINGAN KOMPUTER</a></p><p><a href="">Arsitektur protokol TCP/I</a></p><p><a href="">Contoh Konfigurasi Jaringan</a></p><p><a href="">Perangkat Lunak Jaringan Komputer</a></p><p><a href="">Android OS</a></p>
+
+					</article>
+					
+			<footer>
+				<div class="">
+				<p class=""><a href="">Legal Information</a> | <a href="">Privacy Policy</a> | <a href="">Copyright &copy; Forum Apaan Sih 2017</a></p>
+			</div>
+			</footer>    
+		</table>
+	</section>
+	</body>
+</html>

@@ -1,0 +1,93 @@
+<style type="text/css">
+header, section, footer, aside, hgroup, figure, figcaption, b {
+				display: block;}
+				/*Bagian bodi awal*/
+			body {
+				color: #666666;
+				background:black url("bg.jpg");
+				font-family: Georgia, Times, serif;
+				line-height: 1.4em;
+				margin: 0px;}
+			.wrapper {
+				width: 940px;
+				margin: 20px auto 20px auto;
+				border: 0px solid #000000;
+				background:black url("bg.jpg");}
+			 .input {
+			 	margin: 0px 0px 15px 0px
+			 }
+		
+			section.courses {
+				float: left;
+				border-right: 0px solid #595959 ;
+				background-color:;
+				padding: 15px 20px 0px 0px;
+				text-align: right;}
+			hgroup {
+				margin-top: 50px;}
+			figure {
+				float: right;
+				width: 295px;
+				height: 220px;
+				padding: 10px;
+				margin: 20px;
+				border: 0px solid #eeeeee;}
+			figcaption {
+				font-size: 90%;
+				text-align: left;}
+			aside {
+				float: right;
+				width: 150px;
+				padding: 15px 40px 0px 0px;
+				text-align: left;}
+			aside section a {
+				display: block;
+				padding: 5px;
+				border-bottom: 0px solid #eeeeee;}
+			aside section a:hover {
+				color: #FFFFFF;
+				background-color: #;}
+			a {
+				color: #FF9B9B;
+				background-color: ; 
+				text-decoration: none;}
+			b.text {color: #b5c1ad;
+				background-color: ;
+				text-size: 12px; 
+				text-decoration: none;}
+			hgroup.artikel.wrap .badan .content{
+					background:;
+					float: left;
+					height: 100%;
+					width: 75%;	
+					}
+			h1, h2, h3 {
+				font-weight: normal;}
+			h2 {
+				/*margin: 10px 0px 5px 0px;*/
+				padding: 0px;}
+			h3 {
+				margin: 0px 0px 10px 0px;
+				color: #FF9900;}
+			aside h2 {
+				padding: 15px 0px 10px 0px;
+				margin: 20px 0px 5px 0px
+				color: #FFFFFF;
+				background-color:#F18D00;}
+			footer {
+				font-size: 80%;
+				padding: 7px 0px 0px 20px;}
+				.footer {
+				clear: both;
+				background: rgba(0, 0, 0, 0.2);
+				padding: 5px 10px;}
+			.footer p {
+				font-size: 75%;
+				text-align: right;}
+			.footer a {
+				color: #807c72;
+				background :"#413f3b" url("bg3.jpg"); }
+		</style>
+		<!--[if lt IE 9]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
